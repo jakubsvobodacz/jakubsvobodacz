@@ -1,5 +1,5 @@
 ### Hi! 👋
-Hi my name is **Jakub Svoboda** and I work as a software engineering manager at a toy company that everyone loves.
+My name is **Jakub Svoboda** and I work as a software engineering manager at a toy company that everyone loves.
 
 At the moment, I focus on building a curated list of resources for engineering managers as there is very little out there for this career track:
 
