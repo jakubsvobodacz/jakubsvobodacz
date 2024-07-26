@@ -11,6 +11,8 @@ At the moment, I focus on building a curated list of resources for engineering m
 [![medium](https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium)](https://medium.com/@jakubsvobodacz)
 
 
+### My Website 🌐
+[jakubsvoboda.net]([https://duckduckgo.com](https://www.jakubsvoboda.net/))
 
 <!--
 **jakubsvobodacz/jakubsvobodacz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
