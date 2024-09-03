@@ -5,6 +5,7 @@ At the moment, I focus on building a curated list of resources for engineering m
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/jakubsvobodacz/Awesome-Engineering-Manager?style=social)](https://github.com/jakubsvobodacz/Awesome-Engineering-Manager)
 
+I also regularly write articles about engineering leadership on [leaddev.com](https://leaddev.com/community/jakub-svoboda).
 
 ### Reach me 💬
 [![linkedin](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jakubsvobodacz/)
